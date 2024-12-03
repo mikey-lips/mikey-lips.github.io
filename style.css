@@ -1,0 +1,9 @@
+body {
+    align-content: center;
+}
+.horizontal-buttons {
+    display: inline-block;
+}
+button {
+    display: inline;
+}
