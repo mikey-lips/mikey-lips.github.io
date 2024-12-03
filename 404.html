@@ -3,9 +3,8 @@
 <head>
     <script>
         // Redirect unknown routes to the root page, preserving the path
-        const path = window.location.pathname;
         const query = window.location.search;
-        const redirectTo = `/${encodeURIComponent(path + query)}`;
+        const redirectTo = `/${encodeURIComponent(query)}`;
 
         // Redirect
         window.location.replace(redirectTo);
