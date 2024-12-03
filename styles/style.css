@@ -1,8 +1,15 @@
 body {
     align-content: center;
 }
+#home {
+    margin:auto;
+}
+h1 {
+    margin:auto;
+}
 .horizontal-buttons {
     display: inline-block;
+    margin:auto;
 }
 button {
     display: inline;
