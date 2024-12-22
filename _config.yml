@@ -1,2 +1,4 @@
-name: mikey-lips
-theme: slate
+title: Mikey Lipschultz
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
