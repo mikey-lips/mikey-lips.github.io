@@ -35,6 +35,16 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mikeylips"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mikey-lips"
+
+
 include: ["_pages"]
 
 # Exclude from processing.

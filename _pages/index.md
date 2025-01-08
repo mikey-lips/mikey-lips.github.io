@@ -4,7 +4,7 @@
 permalink: /
 layout: single
 classes: wide
-excerpt: "Bassist, Composer, Software Developer"
+excerpt: "Bassist, Guitarist, Software Developer"
 header:
   overlay_image: /assets/images/vfgs.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -13,4 +13,7 @@ header:
       url: "/performances/"
     - label: "Contact"
       url: "/contact/"
+instagram: mikeylips
+github: mikey-lips
 ---
+
