@@ -4,6 +4,10 @@ title: Performances
 permalink: /performances/
 ---
 
-**Saturday, Jan 18**  
-[Mikey Lipschultz Quartet @ Vischer Ferry General Store @ 1:00 PM](https://www.vischerferrygeneralstore.com/)  
-357 Riverview Road, Rexford, NY 12148
+**Sunday, Jan 26**  
+[Jazz Brunch @ Noema @ 12pm](https://www.noemany.com)  
+7 Gerard St, Huntington, NY 11743
+
+**Wednesday, Feb 12**  
+[The Lipschultz Trio @ Vintage Beano and Vino Lounge @ 7pm](https://www.vintagebeanoandvinolounge.com)  
+3316 NY-112, Medford, NY 11763
