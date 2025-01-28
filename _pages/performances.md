@@ -4,9 +4,9 @@ title: Performances
 permalink: /performances/
 ---
 
-**Sunday, Jan 26**  
-[Jazz Brunch @ Noema @ 12pm](https://www.noemany.com)  
-7 Gerard St, Huntington, NY 11743
+**Thursday, Jan 30**  
+[Jazz Night @ Pine Grove Inn @ 7pm](https://www.noemany.com)  
+1 1st St East Patchogue, NY, United States, New York 11772
 
 **Wednesday, Feb 12**  
 [The Lipschultz Trio @ Vintage Beano and Vino Lounge @ 7pm](https://www.vintagebeanoandvinolounge.com)  
