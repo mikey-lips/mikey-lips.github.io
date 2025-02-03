@@ -5,7 +5,7 @@ permalink: /performances/
 ---
 
 **Every Week on Thursday**  
-[Jazz Night @ Pine Grove Inn @ 7pm](https://www.noemany.com)  
+[Jazz Night @ Pine Grove Inn @ 7pm](https://www.pgipatchogue.com)  
 1 1st St East Patchogue, NY, United States, New York 11772
 
 **Wednesday, Feb 12**  
