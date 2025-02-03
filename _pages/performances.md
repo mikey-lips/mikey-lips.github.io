@@ -4,7 +4,7 @@ title: Performances
 permalink: /performances/
 ---
 
-**Thursday, Jan 30**  
+**Every Week on Thursday**  
 [Jazz Night @ Pine Grove Inn @ 7pm](https://www.noemany.com)  
 1 1st St East Patchogue, NY, United States, New York 11772
 
