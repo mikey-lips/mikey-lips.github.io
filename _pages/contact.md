@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-
+Email Mikey at [mikey@mikeylipschultz.com](mailto:mikey@mikeylipschultz.com) or submit the form below.  
 
 <div style="margin-top: 20px" id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/a6aa5482c6f8814295a36f25f21f8465?embedded=1"></div>
 
