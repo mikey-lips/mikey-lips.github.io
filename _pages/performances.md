@@ -9,7 +9,7 @@ permalink: /performances/
 3316 NY-112, Medford, NY 11763
 
 **Saturday, Oct 25th**  
-[Doug Baldwin Jazz Duo @ Madiran the Wine Bar @ 7pm](www.madiranthewinebar.com)  
+[Doug Baldwin Trio @ Madiran the Wine Bar @ 7pm](www.madiranthewinebar.com)  
 209 Rte 25A, East Setauket, NY 11733
 
 **Wednesday, Nov 12th** 
