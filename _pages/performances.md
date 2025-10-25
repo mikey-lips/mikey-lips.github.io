@@ -8,11 +8,11 @@ permalink: /performances/
 [Doug Baldwin Trio @ Madiran the Wine Bar @ 7pm](www.madiranthewinebar.com)  
 209 Rte 25A, East Setauket, NY 11733
 
-**Sunday, Oct 26th**
+**Sunday, Oct 26th**  
 [Jazz Sundays @ The Last Word Huntington @ 7pm](https://www.thelastwordhuntington.com)
 13 Wall St, Huntington Station, NY 11743
 
-**Wednesday, Nov 12th** 
+**Wednesday, Nov 12th**  
 [The Groove Disciples @ Manzi Hall @ 7pm](https://manzihall.com/)  
 67 Scudder Ave, Copiague, NY 11726
 
