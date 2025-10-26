@@ -4,10 +4,6 @@ title: Performances
 permalink: /performances/
 ---
 
-**Saturday, Oct 25th**  
-[Doug Baldwin Trio @ Madiran the Wine Bar @ 7pm](www.madiranthewinebar.com)  
-209 Rte 25A, East Setauket, NY 11733
-
 **Sunday, Oct 26th**  
 [Jazz Sundays @ The Last Word Huntington @ 7pm](https://www.thelastwordhuntington.com)
 13 Wall St, Huntington Station, NY 11743
