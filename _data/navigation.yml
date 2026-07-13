@@ -1,9 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Performances"
-    url: /performances/
-  - title: "Contact"
-    url: /contact/
-  - title: "About"
-    url: /about/
