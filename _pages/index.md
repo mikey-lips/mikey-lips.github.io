@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Coming soon"
+title: "Mikey Lipschultz"
 classes: wide
 author_profile: false
 ---
